@@ -10,3 +10,5 @@ remove_num=reverse_num.lstrip("0")      #선행하는 0들을 제거하는 lstri
 
 print(remove_num)     #출력
 JINA HONG,HUFS computer_engineering 202103739
+
+print('4주차 pull request 실습입니다!')
