@@ -11,3 +11,4 @@ print(remove_num)
 
 
 print('4주차 pull request 실습입니다!')
+print("Today is 2022.03.27")
